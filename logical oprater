@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {                                   //suchit teli
+
+            int a, b, c;
+            int a = 12;
+            int b = 10;
+            c=a+b;
+            Console.WriteLine("Addition of two number is"=+c);
+
+            Console.ReadLine();
+        }
+    }
+}
